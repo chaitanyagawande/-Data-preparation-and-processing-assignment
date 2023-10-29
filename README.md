@@ -18,7 +18,7 @@ Welcome to this extensive collection of datasets, covering various types of data
 An insightful dataset providing reviews of employees from Capgemini.
 - 📂 [Dataset on Kaggle](https://www.kaggle.com/datasets/manishkr1754/capgemini-employee-reviews-dataset/)
 - 📔 [Interactive Notebook on Google Colab](https://colab.research.google.com/drive/1atCIGY-w1EpFXAhpOHojF6pACANKJwUd?authuser=0#scrollTo=i5rbepasFWli)
-- 📰 [Medium Article] (https://medium.com/@cgawande12/exploratory-data-analysis-and-modeling-on-capgemini-employee-reviews-dataset-76db4702331a)
+- 📰 [Medium Article](https://medium.com/@cgawande12/exploratory-data-analysis-and-modeling-on-capgemini-employee-reviews-dataset-76db4702331a)
 
 ## ⏳ TimeSeries
 
@@ -61,6 +61,7 @@ Engage in traffic pattern analysis with this video dataset capturing highway tra
 Explore the intricate web connections with this dataset.
 - 📂 [Dataset on Kaggle](https://www.kaggle.com/datasets/pappukrjha/google-web-graph)
 - 📔 [Interactive Notebook on Google Colab](https://colab.research.google.com/drive/19q0c4QdMhlrofpqEZmA8r2fE_cuQ9IMR#scrollTo=0tJ2O1pU7nEk)
+- 📰 [Medium Article](https://medium.com/@cgawande12/unraveling-the-web-a-deep-dive-into-the-google-web-graph-dataset-43604786ac31)
 
 ---
 
