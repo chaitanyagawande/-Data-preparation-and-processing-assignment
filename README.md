@@ -33,6 +33,7 @@ Delve into the world of cryptocurrency with this dataset showcasing trends throu
 Predict traffic patterns using this spatio-temporal dataset.
 - 📂 [Dataset on Kaggle](https://www.kaggle.com/datasets/charvibannur/gtfs-traffic-prediction-dataset)
 - 📔 [Interactive Notebook on Google Colab](https://colab.research.google.com/drive/1DNSTmMgDvelozkS1m_C664sQQI9dMSFH#scrollTo=4wMuK-XAdxdu)
+- 📰 [Medium Article](https://medium.com/@cgawande12/mastering-data-analysis-and-modeling-a-step-by-step-guide-with-spatio-temporal-data-fda1c9912843)
 
 ## 🖼️ Image Dataset
 
